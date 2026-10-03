@@ -42,8 +42,8 @@ Offline PWA and saved history, Fabric.js stencils, multi-page flows, Figma and S
 
 ## How AI tools helped
 - Gemma 4: reads the drawing, writes and edits the code.
-- GitHub Copilot: add specific examples here (for instance "generated the FastAPI upload route").
-- Snowflake CoCo: not used in this project.
+
+
 
 ## License
 MIT
